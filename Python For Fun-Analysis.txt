@@ -1,0 +1,60 @@
+Python For Fun
+- 3.html
+- 0 - Scripts
+- - Compare TXTs
+- - - compareTxt.py
+- - - myOutput.txt
+- - - StarfleetManagerTester-Output.txt
+- 1 - Connect4-AI
+- - game_board.py
+- - icon.png
+- - logo.png
+- - pgtest.py
+- - readme.txt
+- - .idea
+- - - .gitignore
+- - - Connect4-Proj.iml
+- - - misc.xml
+- - - modules.xml
+- - - workspace.xml
+- - - dictionaries
+- - - - user.xml
+- - - inspectionProfiles
+- - - - profiles_settings.xml
+- 2 - A-Star Algorithm Visualization
+- - main.py
+- - readme.txt
+- - stuff.py
+- - .idea
+- - - .gitignore
+- - - A-Star Algorithm Visualization.iml
+- - - misc.xml
+- - - modules.xml
+- - - workspace.xml
+- - - inspectionProfiles
+- - - - profiles_settings.xml
+- - - - Project_Default.xml
+- - __pycache__
+- - - stuff.cpython-38.pyc
+- DirectoryTree
+- - ExploreDir.py
+- - LastModExcel.py
+- - Python For Fun-Analysis.xlsx
+- - dist
+- - - dist_An._16.03.2020_23.22.14.xlsx
+- - - dist_An._17.03.2020_09.42.47.xlsx
+- - - LastModExcel.exe
+- - - LastModExcel.zip
+- Flipping Coins -Normal Distributation
+- - newFile.xlsx
+- - tabli_FINISH.xlsx
+- - Wedgdsadbvc.txt
+- - XL-Yourself.py
+- GetPriceUpdate
+- - digital_clock.py
+- - news_titles_sky.csv
+- - scraper.py
+- WebScraping
+- - news_titles_sky.csv
+- - titl.csv
+- - webs.py
