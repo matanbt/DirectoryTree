@@ -1,3 +1,0 @@
-PATH = "C:\\Users\\MatanBT\\Google Drive\\Coding Projects\\Python For Fun"
-# path = input(
-#    '-- > Write the desired directory: \nExample: C:\\Users\\mtnbt\\Google Drive\\Coding Projects\\Python For Fun \n')
