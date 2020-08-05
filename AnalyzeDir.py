@@ -4,11 +4,7 @@ from openpyxl.styles import Border, Side, PatternFill, Font, GradientFill, Align
 from openpyxl.utils import get_column_letter
 
 # curr path by default, could alternatively be a given path:
-# PATH = os.getcwd()
-
-PATH = "C:\\Users\\MatanBT\\Google Drive\\Coding Projects\\Python For Fun"
-# path = input(
-#    '-- > Write the desired directory: \nExample: C:\\Users\\mtnbt\\Google Drive\\Coding Projects\\Python For Fun \n')
+PATH = os.getcwd()
 
 # name of the folder being inspected
 CURR_DIR_NAME = PATH.split("\\")[-1]
